@@ -1,0 +1,6 @@
+name=input("What is Your Name?" )
+f_name=input("What is Father Name?" )
+age=input("Enter Your age " )
+print("Name = "+name)
+print("Father Name = "+f_name)
+print("Age = "+age)
